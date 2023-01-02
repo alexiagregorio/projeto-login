@@ -48,7 +48,7 @@ section#login > div#imagem {
     display: block;
     background: #5f2c82 url(../imagens/img-login.png.jpg) no-repeat;
     background-size: cover;
-    background-position: left top;
+    background-position: left top; /*para colocar o background onde voce quiser*/
     height: 200px;
 }
 
